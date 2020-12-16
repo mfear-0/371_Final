@@ -4,7 +4,7 @@ public class TodoItem {
     private int id;
     private String text;
     private String date;
-    private int done; //why
+    private int done;
 
     public TodoItem(int id, String text, String date, int done) {
         this.id = id;
